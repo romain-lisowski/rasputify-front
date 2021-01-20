@@ -22,7 +22,7 @@
     "@firebase/firestore": "^1.13.0",
     "core-js": "^3.6.4",
     "dotenv": "^8.2.0",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "luxon": "^1.23.0",
     "socket.io-client": "^2.3.0",
     "vue": "^2.6.11",
